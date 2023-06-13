@@ -1,5 +1,5 @@
 
-baseURL = "https://mtlmacedo.github.io/"
+baseURL = "https://mtlmacedo.com/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
