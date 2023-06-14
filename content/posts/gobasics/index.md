@@ -1,9 +1,10 @@
 ---
-title: "# Getting Started with Go Programming: A Beginner's Guide"
+title: "Go Programming 101: A Beginner's Guide"
 date: 2023-06-13T15:03:15-03:00
 author: "Matheus Macedo"
-description: "Software engineer with 5+ years of .NET \n Making my way into GO"
+description: "GoLang Basics"
 tags: ["go","golang", "tutorial", "installation", "setup", "varaibles", "concurrency", "basics"]
+categories: ["Go"]
 draft: false
 ---
 
