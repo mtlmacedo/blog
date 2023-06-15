@@ -1,10 +1,10 @@
 ---
 title: "Go Programming 101: A Beginner's Guide"
-date: 2023-06-13T15:03:15-03:00
+date: 2023-06-11T15:03:15-03:00
 author: "Matheus Macedo"
 description: "GoLang Basics"
 tags: ["go","golang", "tutorial", "installation", "setup", "varaibles", "concurrency", "basics"]
-categories: ["Go"]
+categories: ["Go", "Go Programming 101:"]
 images: []
 resources:
 - name: featured-image
