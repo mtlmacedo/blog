@@ -5,9 +5,12 @@ author: "Matheus Macedo"
 description: "GoLang Basics"
 tags: ["go","golang", "tutorial", "installation", "setup", "varaibles", "concurrency", "basics"]
 categories: ["Go"]
+images: []
+resources:
+- name: featured-image
+  src: featured-image.jpg
 draft: false
 ---
-
 
 ## Introduction
 
