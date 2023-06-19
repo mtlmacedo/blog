@@ -123,7 +123,6 @@ Additionally, the go mod init command ensures that your project adheres to Go's 
 
 Note that the go mod init command should be run at the root directory of your project, where your main Go files or packages are located.
 
-
 ## Variables and Data Types
 
 In Go, variables are used to store values of different types. Let's explore some common data types in Go:
