@@ -30,13 +30,13 @@ languageName = "English"
     title = "Matheus Macedo" 
   [[menu.main]]
     weight = 2
-    identifier = "posts"
+    identifier = "blog"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Blog"
-    url = "/posts/"
+    url = "/blog/"
     # title will be shown when you hover on this menu link
     title = "Mtlmacedo"
   [[menu.main]]
