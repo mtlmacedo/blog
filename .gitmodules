@@ -4,3 +4,9 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/mtlmacedo/mtlmacedo.github.io.git
+[submodule "public/blog"]
+	path = public/blog
+	url = https://github.com/mtlmacedo/blog.git
+[submodule "publiv"]
+	path = publiv
+	url = https://github.com/mtlmacedo/blog.git
