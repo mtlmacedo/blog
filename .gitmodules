@@ -10,3 +10,6 @@
 [submodule "publiv"]
 	path = publiv
 	url = https://github.com/mtlmacedo/blog.git
+[submodule "mtlmacedo.github.io"]
+	path = mtlmacedo.github.io
+	url = https://github.com/mtlmacedo/mtlmacedo.github.io.git
