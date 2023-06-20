@@ -1,5 +1,5 @@
 ---
-title: "Poiters: Understanding Value vs. Reference in Go"
+title: "Pointers: Understanding Value vs. Reference in Go"
 date: 2023-06-19T13:45:56-03:00
 description: "GoLang Basics"
 tags: ["go","golang", "tutorial", "pointers", "value", "varaibles", "refrences", "basics"]
