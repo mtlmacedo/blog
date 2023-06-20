@@ -1,7 +1,6 @@
 ---
 title: "C# 12 - Collection Literals"
 date: 2023-06-20T10:50:36-03:00
-draft: true
 author: "Matheus Macedo"
 description: "Csharp 12 - Collection Literals "
 tags: ["csharp","c#", "tutorial", "new", "feature", "collections", "collectionslitrals", "news"]
