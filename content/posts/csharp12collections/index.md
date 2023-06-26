@@ -4,7 +4,7 @@ date: 2023-06-20T10:50:36-03:00
 author: "Matheus Macedo"
 description: "Csharp 12 - Collection Literals "
 tags: ["csharp","c#", "tutorial", "new", "feature", "collections", "collectionslitrals", "news"]
-categories: ["C#", "C#12"]
+categories: ["csharp", "csharp12"]
 images: []
 resources:
 - name: featured-image
