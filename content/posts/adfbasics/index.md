@@ -8,7 +8,7 @@ images: []
 resources:
 - name: featured-image
   src: featured-image.jpg
-draft: true 
+draft: false 
 ---
 
 ## Azure Data Factory: A Beginner's Guide from a Developer's Perspective
@@ -22,39 +22,36 @@ Azure Data Factory is a cloud-based data integration service offered by [Microso
 ## Pipelines
 
 ![alt text](images/pipes2.png)
+
 The core building blocks of Azure Data Factory are pipelines. Pipelines are composed of activities, which represent actions to be performed on the data.
 
 ## Activities
 
-![alt text](images/pointer.png)
+![alt text](images/activities.png)
+
 Activities are the individual steps within a pipeline. They can perform a wide range of operations, such as data copying, transformation, and analysis.
 
 ## Data Sources
 
-![alt text](images/pointer.png)
+![alt text](images/sources.png)
+
 Azure Data Factory supports a variety of data sources, including on-premises databases, cloud storage services like Azure Blob Storage and Azure Data Lake Storage, as well as Software-as-a-Service (SaaS) applications.
 
 ## Data Sinks
 
-![alt text](images/pointer.png)
 Data sinks represent the destinations where data is loaded or stored, such as SQL databases, data warehouses, or even another data factory.
-
-## Building Your First Data Pipeline
-
-To get hands-on experience with Azure Data Factory, follow these steps:
-a. Create an Azure Data Factory instance in the Azure portal.
-b. Define the data sources and data sinks for your pipeline.
-c. Design your pipeline by adding activities and configuring their properties.
-d. Establish dependencies and ordering between activities.
-e. Test and monitor your pipeline execution.
 
 ## Additional Features and Integrations
 
 Azure Data Factory offers a range of features to enhance your data workflows:
-a. Mapping Data Flows: A visual interface for building data transformations without writing code.
-b. Data Integration Runtimes: Options for executing data pipelines on Azure, on-premises, or in a virtual network.
-c. Data Factory Templates: Reusable templates for common data integration scenarios.
-d. Integration with Other Azure Services: ADF seamlessly integrates with services like Azure Functions, Azure Databricks, and Azure Machine Learning, enabling advanced data processing and analytics capabilities.
+
+**Mapping Data Flows:** A visual interface for building data transformations without writing code.
+
+**Data Integration Runtimes:** Options for executing data pipelines on Azure, on-premises, or in a virtual network.
+
+**Data Factory Templates:** Reusable templates for common data integration scenarios.
+
+**Integration with Other Azure Services:** ADF seamlessly integrates with services like Azure Functions, Azure Databricks, and Azure Machine Learning, enabling advanced data processing and analytics capabilities.
 
 Remember to explore [the official Azure Data Factory documentation](https://learn.microsoft.com/en-us/azure/data-factory/), [community forums](https://techcommunity.microsoft.com/t5/azure-data-factory/bd-p/AzureDataFactory), and [tutorials](https://learn.microsoft.com/en-us/azure/data-factory/data-factory-tutorials) to deepen your knowledge and expand your skills.
 
