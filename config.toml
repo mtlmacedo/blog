@@ -103,7 +103,7 @@ languageName = "English"
     # LoveIt NEW | 0.2.0 Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "/dancing-gopher.gif"
+      logo = "" #"/dancing-gopher.gif"
       # title name
       name = "Mtlmacedo"
       # you can add extra information before the name (HTML format is supported), such as icons
